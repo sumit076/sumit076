@@ -1,3 +1,4 @@
+[![An image of @sumit076's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumit076)](https://holopin.io/@sumit076)
 ### Hi there 👋 ,
 ### I'm [Sumit Saha](https://www.linkedin.com/in/sumitsaha74)
 
