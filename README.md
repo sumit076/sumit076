@@ -9,10 +9,10 @@
 With over 2 years of experience in a product-based company, I specialize in building scalable and efficient backend solutions using TypeScript, JavaScript, Node.js, Java, and Spring, with a strong foundation in backend architecture and system design. I take pride in managing end-to-end projects, always striving for clean, optimized, and maintainable solutions.
 
 Skilled in:
-• Backend Development & Architecture
-• Distributed Systems & System Design
-• Data Structures & Algorithms
-• Agile & Scalable Solutioning
+- Backend Development & Architecture
+- Distributed Systems & System Design
+- Data Structures & Algorithms
+- Agile & Scalable Solutioning
 
 Beyond work, I'm an active open source contributor, frequent hackathon participant, and deeply enthusiastic about constantly learning, adapting, and solving challenges.
 
