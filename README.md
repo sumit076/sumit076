@@ -6,15 +6,23 @@
 <code><img height="170" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"></code>
 
 ### About Me:-
-I am an Engineering student currently pursuing B.Tech Computer Science at MVJCE. As a tech enthusiast I love to do coding and solving real-life problems. I am also a Web & App developer and interested in learning Cloud Computing, AI, Machine Learning and DevOps. I would love to share my knowledge and skills with Open Source Communities and looking forward to explore new technologies and new opportunities.
+With over 2 years of experience in a product-based company, I specialize in building scalable and efficient backend solutions using TypeScript, JavaScript, Node.js, Java, and Spring, with a strong foundation in backend architecture and system design. I take pride in managing end-to-end projects, always striving for clean, optimized, and maintainable solutions.
+
+Skilled in:
+• Backend Development & Architecture
+• Distributed Systems & System Design
+• Data Structures & Algorithms
+• Agile & Scalable Solutioning
+
+Beyond work, I'm an active open source contributor, frequent hackathon participant, and deeply enthusiastic about constantly learning, adapting, and solving challenges.
+
+Always open to discussions and innovative tech solutions. Let’s connect and build something impactful!
 
 ### More about myself..
 
-- 🔭 I’m currently working on an Open Source Project E-learner 📱.
-- 🌱 I'm currently learning Machine Learning 💻 and DevOps ☁️.
 - 👯‍♂️  I’m looking to collaborate on Open Source Projects.
 - 🤠 Spending time with Competitive Programming 💻.
-- ✨ I'm mentor at [@BWLU'20](https://letsupgrade.in/BWLU/).
+- ✨ I was mentor at [@BWLU'20](https://letsupgrade.in/BWLU/).
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/sumitsaha74)
 
 - Feel free to connect with me:
@@ -23,14 +31,3 @@ I am an Engineering student currently pursuing B.Tech Computer Science at MVJCE.
 
 
 ![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumit076&show_icons=true&theme=radical)
-
-
-
-
-
-
-
-
-
-
-  
